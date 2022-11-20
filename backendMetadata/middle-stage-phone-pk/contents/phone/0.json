@@ -1,0 +1,111 @@
+{
+  "$schema": "./../__json/contents.json",
+  "contents": [
+    {
+      "schema": "phone",
+      "data": {
+        "name": {
+          "en": "iPad nimi 4"
+        },
+        "description": {
+          "en": "Yes this is iPad nimi gen 4"
+        }
+      },
+      "id": "b6fc37ff-a87f-4bfe-bf70-50664b494340",
+      "status": "Published"
+    },
+    {
+      "schema": "phone",
+      "data": {
+        "name": {
+          "en": "Xiaomi Mi MIX"
+        },
+        "description": {
+          "en": "Xiaomi Mi MIX"
+        }
+      },
+      "id": "4340f27f-cd6c-47b7-86d0-433f652dd1d4",
+      "status": "Published"
+    },
+    {
+      "schema": "phone",
+      "data": {
+        "name": {
+          "en": "Unihertz Titan Pocket"
+        },
+        "description": {
+          "en": "Unihertz Titan Pocket"
+        }
+      },
+      "id": "233ab129-b877-40e5-bc28-229fba8abc4a",
+      "status": "Published"
+    },
+    {
+      "schema": "phone",
+      "data": {
+        "name": {
+          "en": "Sunbeam F1"
+        },
+        "description": {
+          "en": "Sunbeam F1"
+        }
+      },
+      "id": "6ca174b1-a04a-476b-aa84-3320819bd87f",
+      "status": "Published"
+    },
+    {
+      "schema": "phone",
+      "data": {
+        "name": {
+          "en": "Motorola Moto G Power (2022)"
+        },
+        "description": {
+          "en": "Motorola Moto G Power (2022)"
+        }
+      },
+      "id": "d12feca1-167f-4891-aab1-eff668576429",
+      "status": "Published"
+    },
+    {
+      "schema": "phone",
+      "data": {
+        "name": {
+          "en": "Apple iPhone 13 Pro Max"
+        },
+        "description": {
+          "en": "Apple iPhone 13 Pro Max"
+        }
+      },
+      "id": "46f3ee81-925e-48ce-a07e-c05e2398035c",
+      "status": "Published"
+    },
+    {
+      "schema": "phone",
+      "data": {
+        "name": {
+          "en": "Samsung Galaxy S22 Ultra"
+        },
+        "description": {
+          "en": "Samsung Galaxy S22 Ultra"
+        }
+      },
+      "id": "64e4e51d-c41e-4146-a017-c1c4113f3bc9",
+      "status": "Published"
+    },
+    {
+      "schema": "phone",
+      "data": {
+        "name": {
+          "en": "Google Pixel 6"
+        },
+        "description": {
+          "en": "Google Pixel 6"
+        }
+      },
+      "id": "50e8a5bc-2e37-41fd-8242-04cfc2f9d66a",
+      "status": "Published"
+    }
+  ],
+  "sourceApp": "middle-stage-phone-pk",
+  "sourceUrl": "https://cloud.squidex.io/"
+}

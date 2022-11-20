@@ -1,0 +1,3 @@
+﻿type Query {
+  phones(ids: [ID!]!): [Phone]
+}

@@ -1,0 +1,214 @@
+{
+  "$schema": "./../__json/contents.json",
+  "contents": [
+    {
+      "schema": "competition",
+      "data": {
+        "date": {
+          "iv": "2022-06-04T22:49:52Z"
+        },
+        "participants": {
+          "iv": [
+            "233ab129-b877-40e5-bc28-229fba8abc4a",
+            "6ca174b1-a04a-476b-aa84-3320819bd87f",
+            "d12feca1-167f-4891-aab1-eff668576429",
+            "46f3ee81-925e-48ce-a07e-c05e2398035c",
+            "64e4e51d-c41e-4146-a017-c1c4113f3bc9",
+            "50e8a5bc-2e37-41fd-8242-04cfc2f9d66a"
+          ]
+        },
+        "challenge": {
+          "iv": [
+            "46e56788-7ca3-455f-8021-9507fa1b0360"
+          ]
+        },
+        "winners": {
+          "iv": [
+            "233ab129-b877-40e5-bc28-229fba8abc4a",
+            "6ca174b1-a04a-476b-aa84-3320819bd87f"
+          ]
+        }
+      },
+      "id": "c46cce6c-feb3-4ca3-ba92-f2a051c2aa3f",
+      "status": "Published"
+    },
+    {
+      "schema": "competition",
+      "data": {
+        "date": {
+          "iv": "2022-06-04T22:49:33Z"
+        },
+        "participants": {
+          "iv": [
+            "233ab129-b877-40e5-bc28-229fba8abc4a",
+            "6ca174b1-a04a-476b-aa84-3320819bd87f",
+            "d12feca1-167f-4891-aab1-eff668576429",
+            "46f3ee81-925e-48ce-a07e-c05e2398035c",
+            "64e4e51d-c41e-4146-a017-c1c4113f3bc9",
+            "50e8a5bc-2e37-41fd-8242-04cfc2f9d66a"
+          ]
+        },
+        "challenge": {
+          "iv": [
+            "184eaf6b-ff64-4c87-9268-9a65139bc573"
+          ]
+        },
+        "winners": {
+          "iv": [
+            "d12feca1-167f-4891-aab1-eff668576429"
+          ]
+        }
+      },
+      "id": "4b82f860-eff3-4dca-b8b3-dc8932343e9d",
+      "status": "Published"
+    },
+    {
+      "schema": "competition",
+      "data": {
+        "date": {
+          "iv": "2022-06-04T22:49:05Z"
+        },
+        "participants": {
+          "iv": [
+            "d12feca1-167f-4891-aab1-eff668576429",
+            "46f3ee81-925e-48ce-a07e-c05e2398035c",
+            "64e4e51d-c41e-4146-a017-c1c4113f3bc9",
+            "50e8a5bc-2e37-41fd-8242-04cfc2f9d66a"
+          ]
+        },
+        "challenge": {
+          "iv": [
+            "5ce190a0-9401-4f2b-be1d-62a1f79b3cf0"
+          ]
+        },
+        "winners": {
+          "iv": [
+            "46f3ee81-925e-48ce-a07e-c05e2398035c"
+          ]
+        }
+      },
+      "id": "a80c734f-cadb-4f82-8834-e4fe295a6118",
+      "status": "Published"
+    },
+    {
+      "schema": "competition",
+      "data": {
+        "date": {
+          "iv": "2022-06-04T22:44:35Z"
+        },
+        "participants": {
+          "iv": [
+            "233ab129-b877-40e5-bc28-229fba8abc4a",
+            "6ca174b1-a04a-476b-aa84-3320819bd87f",
+            "d12feca1-167f-4891-aab1-eff668576429",
+            "46f3ee81-925e-48ce-a07e-c05e2398035c",
+            "64e4e51d-c41e-4146-a017-c1c4113f3bc9",
+            "50e8a5bc-2e37-41fd-8242-04cfc2f9d66a"
+          ]
+        },
+        "challenge": {
+          "iv": [
+            "5ce190a0-9401-4f2b-be1d-62a1f79b3cf0"
+          ]
+        },
+        "winners": {
+          "iv": [
+            "64e4e51d-c41e-4146-a017-c1c4113f3bc9"
+          ]
+        }
+      },
+      "id": "a812aabc-526a-4378-8a0f-13fc877da4b7",
+      "status": "Published"
+    },
+    {
+      "schema": "competition",
+      "data": {
+        "date": {
+          "iv": "2022-06-04T22:44:07Z"
+        },
+        "participants": {
+          "iv": [
+            "233ab129-b877-40e5-bc28-229fba8abc4a",
+            "6ca174b1-a04a-476b-aa84-3320819bd87f",
+            "d12feca1-167f-4891-aab1-eff668576429",
+            "46f3ee81-925e-48ce-a07e-c05e2398035c",
+            "64e4e51d-c41e-4146-a017-c1c4113f3bc9",
+            "50e8a5bc-2e37-41fd-8242-04cfc2f9d66a"
+          ]
+        },
+        "challenge": {
+          "iv": [
+            "eda8b103-da7c-4379-8208-14f93134f6b8"
+          ]
+        },
+        "winners": {
+          "iv": [
+            "46f3ee81-925e-48ce-a07e-c05e2398035c"
+          ]
+        }
+      },
+      "id": "749b0698-d275-4b0e-a980-7dbd0f15b209",
+      "status": "Published"
+    },
+    {
+      "schema": "competition",
+      "data": {
+        "date": {
+          "iv": "2022-06-04T22:43:05Z"
+        },
+        "participants": {
+          "iv": [
+            "d12feca1-167f-4891-aab1-eff668576429",
+            "46f3ee81-925e-48ce-a07e-c05e2398035c",
+            "64e4e51d-c41e-4146-a017-c1c4113f3bc9",
+            "50e8a5bc-2e37-41fd-8242-04cfc2f9d66a"
+          ]
+        },
+        "challenge": {
+          "iv": [
+            "1e284174-cee3-4cbd-b117-b3f61a717f59"
+          ]
+        },
+        "winners": {
+          "iv": [
+            "46f3ee81-925e-48ce-a07e-c05e2398035c"
+          ]
+        }
+      },
+      "id": "d80333fc-72d1-4ebe-891b-b048bbcf726f",
+      "status": "Published"
+    },
+    {
+      "schema": "competition",
+      "data": {
+        "date": {
+          "iv": "2022-06-04T22:42:11Z"
+        },
+        "participants": {
+          "iv": [
+            "233ab129-b877-40e5-bc28-229fba8abc4a",
+            "6ca174b1-a04a-476b-aa84-3320819bd87f",
+            "d12feca1-167f-4891-aab1-eff668576429",
+            "46f3ee81-925e-48ce-a07e-c05e2398035c",
+            "64e4e51d-c41e-4146-a017-c1c4113f3bc9",
+            "50e8a5bc-2e37-41fd-8242-04cfc2f9d66a"
+          ]
+        },
+        "challenge": {
+          "iv": [
+            "da2c8144-814d-4a43-9ce7-c22bfda91bf4"
+          ]
+        },
+        "winners": {
+          "iv": [
+            "233ab129-b877-40e5-bc28-229fba8abc4a"
+          ]
+        }
+      },
+      "id": "3841b6ee-1413-424b-8b47-52c4d93394c6",
+      "status": "Published"
+    }
+  ],
+  "sourceApp": "middle-stage-phone-pk",
+  "sourceUrl": "https://cloud.squidex.io/"
+}

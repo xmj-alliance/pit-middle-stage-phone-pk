@@ -1,0 +1,103 @@
+{
+  "$schema": "./../__json/contents.json",
+  "contents": [
+    {
+      "schema": "challenge",
+      "data": {
+        "name": {
+          "en": "Cat-langue translator"
+        },
+        "description": {
+          "en": "You are asked to translate the cat-langue to a human understandable language."
+        },
+        "difficulty": {
+          "iv": 2
+        }
+      },
+      "id": "1e284174-cee3-4cbd-b117-b3f61a717f59",
+      "status": "Published"
+    },
+    {
+      "schema": "challenge",
+      "data": {
+        "name": {
+          "en": "Roller Coaster"
+        },
+        "description": {
+          "en": "Stay in a fast spinning container as longer as you can"
+        },
+        "difficulty": {
+          "iv": 4
+        }
+      },
+      "id": "184eaf6b-ff64-4c87-9268-9a65139bc573",
+      "status": "Draft"
+    },
+    {
+      "schema": "challenge",
+      "data": {
+        "name": {
+          "en": "Bungee jumping"
+        },
+        "description": {
+          "en": "Free fall from the sky! Optionally no rope provided"
+        },
+        "difficulty": {
+          "iv": 5
+        }
+      },
+      "id": "46e56788-7ca3-455f-8021-9507fa1b0360",
+      "status": "Published"
+    },
+    {
+      "schema": "challenge",
+      "data": {
+        "name": {
+          "en": "Ocean diving"
+        },
+        "description": {
+          "en": "Diving under the ocean!"
+        },
+        "difficulty": {
+          "iv": 5
+        }
+      },
+      "id": "eda8b103-da7c-4379-8208-14f93134f6b8",
+      "status": "Published"
+    },
+    {
+      "schema": "challenge",
+      "data": {
+        "name": {
+          "en": "Intense gaming"
+        },
+        "description": {
+          "en": "Play a game without a pause for 10 hours!"
+        },
+        "difficulty": {
+          "iv": 3
+        }
+      },
+      "id": "5ce190a0-9401-4f2b-be1d-62a1f79b3cf0",
+      "status": "Published"
+    },
+    {
+      "schema": "challenge",
+      "data": {
+        "name": {
+          "en": "Speed typing"
+        },
+        "description": {
+          "en": "Typing as fast as you can!"
+        },
+        "difficulty": {
+          "iv": 1
+        }
+      },
+      "id": "da2c8144-814d-4a43-9ce7-c22bfda91bf4",
+      "status": "Published"
+    }
+  ],
+  "sourceApp": "middle-stage-phone-pk",
+  "sourceUrl": "https://cloud.squidex.io/"
+}

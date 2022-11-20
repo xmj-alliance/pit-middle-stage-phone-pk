@@ -1,0 +1,5 @@
+type Mutation {
+  addPhones(newItems: [InputPhone!]!): [Phone]
+  updatePhones(updatingItems: [InputPhone!]!): [Phone]
+  deletePhones(ids: [ID!]!): [Phone]
+}
